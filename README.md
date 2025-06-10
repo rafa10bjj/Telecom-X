@@ -106,12 +106,4 @@ Este projeto apresenta uma análise abrangente de churn (cancelamento) de client
 ![Captura de tela 2025-06-10 171548](https://github.com/user-attachments/assets/1b0bf577-0808-4cd5-990b-28e19400da31)
 
 
-
-
-
-
-**Link do Projeto**: [https://github.com/seu-usuario/telecom-churn-analysis](https://github.com/seu-usuario/telecom-churn-analysis)
-
----
-
 ⭐ Se este projeto foi útil para você, considere dar uma estrela no repositório!
