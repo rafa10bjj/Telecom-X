@@ -1,6 +1,6 @@
 # Telecom-X
 Análise de dados 
-# 📊 Análise de Churn em Telecomunicações
+# 📊 Análise de Churn (Cancelamento) em Telecomunicações
 
 ## 🎯 Sobre o Projeto
 
